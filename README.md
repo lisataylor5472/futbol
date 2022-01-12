@@ -44,6 +44,6 @@ This project uses data from a fictional "Futbol" league to analyze performance f
 
 ### Contributors
 
-[Lisa Taylor](https://github.com/lisataylor5472)
-[Mark Ertmer](https://github.com/markertmer)
-[Jacob Jenner](https://github.com/jennerj)
+- [Lisa Taylor](https://github.com/lisataylor5472)
+- [Mark Ertmer](https://github.com/markertmer)
+- [Jacob Jenner](https://github.com/jennerj)
